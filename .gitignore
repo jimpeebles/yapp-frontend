@@ -1,0 +1,45 @@
+# Ignore dependencies
+/node_modules
+
+# Ignore build output
+/dist
+
+# Ignore development server
+/.serve
+
+# Ignore environment variables
+/.env.local
+/.env.*.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Ignore editor and IDE files
+/.idea
+/.vscode
+/.vs
+
+# Ignore logs
+/*.log
+
+# Ignore compiled files
+/*.js
+/*.js.map
+/*.css
+/*.css.map
+
+# Ignore test coverage reports
+/coverage
+
+# Ignore build artifacts
+/.nuxt
+/nuxt.config.js
+
+# Ignore package-lock.json
+/package-lock.json
+
+# Ignore yarn.lock
+/yarn.lock
+
+# Ignore .DS_Store files (macOS)
+.DS_Store
